@@ -10,7 +10,7 @@ import google.generativeai as genai
 from IPython.display import Markdown, clear_output, display
 
 # Initialize Streamlit app
-st.title("Personalized Learning Plan Generator")
+st.title("vidyAI")
 
 # Get user inputs
 student_name = st.text_input("Enter your name:")
